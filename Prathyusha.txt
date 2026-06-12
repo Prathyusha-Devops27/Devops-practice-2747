@@ -1,4 +1,5 @@
-Hello DevOps 🚀
-This is my work inside dev-update branch.
+DevOps Practice 🚀
 
-I am learning how branches work.
+I am practicing GitHub workflow.
+
+Today I am improving my skills step by step.
