@@ -1,4 +1,4 @@
 Hello DevOps 🚀
-This is my first GitHub file.
+This is my first updated GitHub file.
 
-I am learning how DevOps works step by step.
+I am learning github  step by step.
